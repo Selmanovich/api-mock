@@ -1,1 +1,7 @@
-
+{
+    "auth": {
+        "access_token": "BearerToken12345678_test1",
+        "expires_in": 86400,
+        "token_type": "Bearer"
+    }
+}
